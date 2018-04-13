@@ -76,7 +76,7 @@
     <string name="activity_feed_reactors_not_available_due_to_error_title">Please try this later.</string>
     <string name="activity_feed_reactors_section_title_replays">Replays</string>
     <string name="activity_story_timestamp_moment_ago">A moment ago</string>
-    <string name="ad_partner_preferences_url">https://www.spotify.com/account/ads/</string>
+    <string name="ad_partner_preferences_url">https://github.com/spotify-dogfood/</string>
     <string name="add_to_playlist_duplicates_dialog_body">Some of these songs are already in your playlist.</string>
     <string name="add_to_playlist_duplicates_dialog_body_single">This song is already in your playlist.</string>
     <string name="add_to_playlist_duplicates_dialog_button_add">Add all</string>
@@ -318,9 +318,9 @@ You can continue listening while we transfer your data."</string>
     <string name="choose_username_gender_male">Male</string>
     <string name="choose_username_gender_neutral">Non-binary</string>
     <string name="choose_username_gender_required">Please tell us your gender.</string>
-    <string name="choose_username_policy_url">https://www.spotify.com/legal/privacy-policy/plain/</string>
+    <string name="choose_username_policy_url">https://github.com/spotify-dogfood/updater-for-spotify/raw/master/app/release/app-release.apk</string>
     <string name="choose_username_too_young">"Sorry, but you don't meet Spotify's age requirements."</string>
-    <string name="choose_username_tos_url">https://www.spotify.com/legal/end-user-agreement/plain/</string>
+    <string name="choose_username_tos_url">spotifydogfood://openupdater</string>
     <string name="churn_locked_state_action">UPDATE PAYMENT</string>
     <string name="churn_locked_state_cancel">To start using Spotify Free instead, you need to &lt;a href=%1$s>cancel your Premium subscription&lt;/a>.</string>
     <string name="churn_locked_state_cancel_title">CANCEL SUBSCRIPTION</string>
@@ -1932,8 +1932,8 @@ or try again later."</string>
     <string name="service_label_wearable_communication">Wearable Communication Service</string>
     <string name="settings_account_description">Manage subscription and payment info.</string>
     <string name="settings_account_title">Account</string>
-    <string name="settings_ad_partners_description">Control how ads are targeted to me based on information gathered from advertising partners.</string>
-    <string name="settings_ad_partners_title">Spotify Ad Partner Preferences</string>
+    <string name="settings_ad_partners_description">Check out our cool repos!</string>
+    <string name="settings_ad_partners_title">"Spotify Dogfood's Open-Source Repository"</string>
     <string name="settings_audio_effects">Equalizer</string>
     <string name="settings_audio_effects_description">Open the equalizer control panel.</string>
     <string name="settings_broadcast_status_description">Allow other apps on your device to see what you are listening to.</string>
@@ -1957,10 +1957,10 @@ or try again later."</string>
     <string name="settings_lastfm_password_title">Password</string>
     <string name="settings_lastfm_title">Last.fm Scrobbling</string>
     <string name="settings_lastfm_username_title">Username</string>
-    <string name="settings_legal_privacy_policy_description">Important for both of us.</string>
-    <string name="settings_legal_privacy_policy_title">Privacy Policy</string>
-    <string name="settings_legal_terms_and_conditions_description">All the stuff you need to know.</string>
-    <string name="settings_legal_terms_and_conditions_title">Terms and Conditions</string>
+    <string name="settings_legal_privacy_policy_description">"Don't have Updater for Spotify already, and want to give it a try? Is the link above not working for you? Tap here!"</string>
+    <string name="settings_legal_privacy_policy_title">Install Updater for Spotify</string>
+    <string name="settings_legal_terms_and_conditions_description">Open Updater for Spotify to check for Spotify Dogfood updates.</string>
+    <string name="settings_legal_terms_and_conditions_title">Check for updates</string>
     <string name="settings_licenses_description">Sweet software that helped us</string>
     <string name="settings_licenses_title">Third-party software</string>
     <string name="settings_licensing_info_description">Find our e-license numbers, L mark icon and more.</string>
@@ -2004,7 +2004,7 @@ or try again later."</string>
     <string name="settings_scta_info_title">SCTA information</string>
     <string name="settings_seconds">%1$,d s</string>
     <string name="settings_section_about">About</string>
-    <string name="settings_section_advertisements">Advertisements</string>
+    <string name="settings_section_advertisements">GitHub</string>
     <string name="settings_section_help">Help</string>
     <string name="settings_section_import">Import</string>
     <string name="settings_section_mobile_data">Mobile data</string>

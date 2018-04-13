@@ -1828,8 +1828,8 @@ veya yeniden dene."</string>
     <string name="service_label_wearable_communication">Takılabilir İletişim Hizmeti</string>
     <string name="settings_account_description">Üyelik ve ödeme bilgisini yönet.</string>
     <string name="settings_account_title">Hesap</string>
-    <string name="settings_ad_partners_description">Reklam veren iş ortaklarından elde edilen bilgilere dayanarak reklamların beni nasıl hedeflediğini kontrol et</string>
-    <string name="settings_ad_partners_title">Spotify Reklam İş Ortağı Tercihleri</string>
+    <string name="settings_ad_partners_description">Check out our cool repos!</string>
+    <string name="settings_ad_partners_title">"Spotify Dogfood's Open-Source Repository"</string>
     <string name="settings_audio_effects">Ekolayzer</string>
     <string name="settings_audio_effects_description">Ekolayzer denetim masasını aç.</string>
     <string name="settings_broadcast_status_description">Cihazındaki diğer uyg. ne dinlediğini görmesine izin ver.</string>
@@ -1853,10 +1853,10 @@ veya yeniden dene."</string>
     <string name="settings_lastfm_password_title">Parola</string>
     <string name="settings_lastfm_title">Last.fm Scrobble</string>
     <string name="settings_lastfm_username_title">Kullanıcı adı</string>
-    <string name="settings_legal_privacy_policy_description">İkimiz için de önemli.</string>
-    <string name="settings_legal_privacy_policy_title">Gizlilik Politikası</string>
-    <string name="settings_legal_terms_and_conditions_description">Bilmen gereken her şey.</string>
-    <string name="settings_legal_terms_and_conditions_title">Şart ve Koşullar</string>
+    <string name="settings_legal_privacy_policy_description">"Don't have Updater for Spotify already, and want to give it a try? Is the link above not working for you? Tap here!"</string>
+    <string name="settings_legal_privacy_policy_title">Install Updater for Spotify</string>
+    <string name="settings_legal_terms_and_conditions_description">Open Updater for Spotify to check for Spotify Dogfood updates.</string>
+    <string name="settings_legal_terms_and_conditions_title">Check for updates</string>
     <string name="settings_licenses_description">Süper yazılım, bize yardımcı oldu</string>
     <string name="settings_licenses_title">Üçüncü taraf yazılım</string>
     <string name="settings_licensing_info_description">e-lisans numaralarımızı, L işareti simgesini ve daha fazlasını burada bulabilirsin</string>
@@ -1900,7 +1900,7 @@ veya yeniden dene."</string>
     <string name="settings_scta_info_title">SCTA bilgisi</string>
     <string name="settings_seconds">%1$,d sn.</string>
     <string name="settings_section_about">Hakkında</string>
-    <string name="settings_section_advertisements">Reklamlar</string>
+    <string name="settings_section_advertisements">GitHub</string>
     <string name="settings_section_help">Yardım</string>
     <string name="settings_section_import">Aktar</string>
     <string name="settings_section_mobile_data">Mobil veri</string>

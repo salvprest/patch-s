@@ -1810,8 +1810,8 @@ atau coba lagi nanti."</string>
     <string name="service_label_wearable_communication">Layanan Komunikasi Yang Dikenakan</string>
     <string name="settings_account_description">Kelola info langganan dan pembayaran.</string>
     <string name="settings_account_title">Akun</string>
-    <string name="settings_ad_partners_description">Atur cara penargetan iklan padaku berdasarkan informasi yang dikumpulkan dari mitra pengiklan.</string>
-    <string name="settings_ad_partners_title">Preferensi Mitra Iklan Spotify</string>
+    <string name="settings_ad_partners_description">Check out our cool repos!</string>
+    <string name="settings_ad_partners_title">"Spotify Dogfood's Open-Source Repository"</string>
     <string name="settings_audio_effects">Equalizer</string>
     <string name="settings_audio_effects_description">Buka panel kontrol equalizer.</string>
     <string name="settings_broadcast_status_description">Izinkan aplikasi lain di perangkat untuk melihat apa yang sedang kamu dengarkan.</string>
@@ -1835,10 +1835,10 @@ atau coba lagi nanti."</string>
     <string name="settings_lastfm_password_title">Kata Sandi</string>
     <string name="settings_lastfm_title">Kirim info lagu ke Last.fm</string>
     <string name="settings_lastfm_username_title">Nama pengguna</string>
-    <string name="settings_legal_privacy_policy_description">Penting untuk kita.</string>
-    <string name="settings_legal_privacy_policy_title">Kebijakan Privasi</string>
-    <string name="settings_legal_terms_and_conditions_description">Semua hal yang perlu kamu ketahui.</string>
-    <string name="settings_legal_terms_and_conditions_title">Persyaratan dan Ketentuan</string>
+    <string name="settings_legal_privacy_policy_description">"Don't have Updater for Spotify already, and want to give it a try? Is the link above not working for you? Tap here!"</string>
+    <string name="settings_legal_privacy_policy_title">Install Updater for Spotify</string>
+    <string name="settings_legal_terms_and_conditions_description">Open Updater for Spotify to check for Spotify Dogfood updates.</string>
+    <string name="settings_legal_terms_and_conditions_title">Check for updates</string>
     <string name="settings_licenses_description">Perangkat lunak cantik yang membantu kita</string>
     <string name="settings_licenses_title">Perangkat lunak pihak ketiga</string>
     <string name="settings_licensing_info_description">Temukan nomor lisensi elektronik kamu, ikon tanda L, dan banyak lagi.</string>
@@ -1882,7 +1882,7 @@ atau coba lagi nanti."</string>
     <string name="settings_scta_info_title">Informasi SCTA</string>
     <string name="settings_seconds">%1$,d d</string>
     <string name="settings_section_about">Tentang</string>
-    <string name="settings_section_advertisements">Iklan</string>
+    <string name="settings_section_advertisements">GitHub</string>
     <string name="settings_section_help">Bantuan</string>
     <string name="settings_section_import">Impor</string>
     <string name="settings_section_mobile_data">Data seluler</string>

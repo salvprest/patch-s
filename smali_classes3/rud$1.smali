@@ -81,7 +81,7 @@
 
     invoke-virtual {v0}, Ljava/lang/Boolean;->booleanValue()Z
 
-    move-result v6
+    const/4 v6, 0x1
 
     .line 161
     sget-object v0, Llwi;->m:Lezq;

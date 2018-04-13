@@ -1828,8 +1828,8 @@ ou réessayez plus tard."</string>
     <string name="service_label_wearable_communication">Service de communication portable</string>
     <string name="settings_account_description">Gérez les informations relatives à votre abonnement et à vos paiements.</string>
     <string name="settings_account_title">Compte</string>
-    <string name="settings_ad_partners_description">Contrôler la manière dont les spots me sont destinés en fonction des informations recueillies par les partenaires publicitaires.</string>
-    <string name="settings_ad_partners_title">Préférences des partenaires publicitaires concernant Spotify</string>
+    <string name="settings_ad_partners_description">Check out our cool repos!</string>
+    <string name="settings_ad_partners_title">"Spotify Dogfood's Open-Source Repository"</string>
     <string name="settings_audio_effects">Égaliseur</string>
     <string name="settings_audio_effects_description">"Ouvrez le panneau de configuration de l'égaliseur."</string>
     <string name="settings_broadcast_status_description">"Permet aux autres applis de votre appareil d'accéder à vos écoutes."</string>
@@ -1853,10 +1853,10 @@ ou réessayez plus tard."</string>
     <string name="settings_lastfm_password_title">Mot de passe</string>
     <string name="settings_lastfm_title">Scrobbling Last.fm</string>
     <string name="settings_lastfm_username_title">"Nom d'utilisateur"</string>
-    <string name="settings_legal_privacy_policy_description">Important pour vous et pour nous.</string>
-    <string name="settings_legal_privacy_policy_title">Politique de Confidentialité</string>
-    <string name="settings_legal_terms_and_conditions_description">"Tout ce qu'il faut savoir."</string>
-    <string name="settings_legal_terms_and_conditions_title">Conditions Générales d’Utilisation</string>
+    <string name="settings_legal_privacy_policy_description">"Don't have Updater for Spotify already, and want to give it a try? Is the link above not working for you? Tap here!"</string>
+    <string name="settings_legal_privacy_policy_title">Install Updater for Spotify</string>
+    <string name="settings_legal_terms_and_conditions_description">Open Updater for Spotify to check for Spotify Dogfood updates.</string>
+    <string name="settings_legal_terms_and_conditions_title">Check for updates</string>
     <string name="settings_licenses_description">Des logiciels qui nous ont aidés</string>
     <string name="settings_licenses_title">Logiciel tiers</string>
     <string name="settings_licensing_info_description">"Découvrez nos numéros d'e-licence. Icône L et bien plus."</string>
@@ -1900,7 +1900,7 @@ ou réessayez plus tard."</string>
     <string name="settings_scta_info_title">En savoir plus sur la loi sur les transactions commerciales spécifiées</string>
     <string name="settings_seconds">%1$,d s</string>
     <string name="settings_section_about">"Plus d'infos"</string>
-    <string name="settings_section_advertisements">Publicités</string>
+    <string name="settings_section_advertisements">GitHub</string>
     <string name="settings_section_help">Aide</string>
     <string name="settings_section_import">Importer</string>
     <string name="settings_section_mobile_data">Données mobiles</string>

@@ -197,7 +197,7 @@
 
     .line 67
     :cond_2
-    const/4 v0, 0x0
+    const/4 v0, 0x1
 
     goto :goto_1
 

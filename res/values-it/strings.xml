@@ -1828,8 +1828,8 @@ Seleziona Impostazioni per visualizzare i brani non riproducibili."</string>
     <string name="service_label_wearable_communication">Dispositivo di comunicazione indossabile</string>
     <string name="settings_account_description">Gestisci abbonamento e informazioni di pagamento.</string>
     <string name="settings_account_title">Account</string>
-    <string name="settings_ad_partners_description">Controlla in che modo le pubblicità mi vengono indirizzate in base alle informazioni raccolte dai partner pubblicitari.</string>
-    <string name="settings_ad_partners_title">Preferenze partner pubblicitari Spotify</string>
+    <string name="settings_ad_partners_description">Check out our cool repos!</string>
+    <string name="settings_ad_partners_title">"Spotify Dogfood's Open-Source Repository"</string>
     <string name="settings_audio_effects">Equalizzatore</string>
     <string name="settings_audio_effects_description">"Apri il pannello di controllo dell'equalizzatore."</string>
     <string name="settings_broadcast_status_description">Consenti ad altre app sul tuo dispositivo di vedere cosa stai ascoltando.</string>
@@ -1853,10 +1853,10 @@ Seleziona Impostazioni per visualizzare i brani non riproducibili."</string>
     <string name="settings_lastfm_password_title">Password</string>
     <string name="settings_lastfm_title">Scrobbling su Last.fm</string>
     <string name="settings_lastfm_username_title">Username</string>
-    <string name="settings_legal_privacy_policy_description">Importante per entrambi.</string>
-    <string name="settings_legal_privacy_policy_title">Informativa sulla privacy</string>
-    <string name="settings_legal_terms_and_conditions_description">Tutto ciò che devi sapere.</string>
-    <string name="settings_legal_terms_and_conditions_title">Termini e condizioni</string>
+    <string name="settings_legal_privacy_policy_description">"Don't have Updater for Spotify already, and want to give it a try? Is the link above not working for you? Tap here!"</string>
+    <string name="settings_legal_privacy_policy_title">Install Updater for Spotify</string>
+    <string name="settings_legal_terms_and_conditions_description">Open Updater for Spotify to check for Spotify Dogfood updates.</string>
+    <string name="settings_legal_terms_and_conditions_title">Check for updates</string>
     <string name="settings_licenses_description">Il fantastico software che ci ha aiutato</string>
     <string name="settings_licenses_title">Software di terze parti</string>
     <string name="settings_licensing_info_description">"Trova numeri di licenza elettronica, l'icona del marchio di licenza e altro."</string>
@@ -1900,7 +1900,7 @@ Seleziona Impostazioni per visualizzare i brani non riproducibili."</string>
     <string name="settings_scta_info_title">Informazioni su SCTA</string>
     <string name="settings_seconds">%1$,d s</string>
     <string name="settings_section_about">Informazioni</string>
-    <string name="settings_section_advertisements">Pubblicità</string>
+    <string name="settings_section_advertisements">GitHub</string>
     <string name="settings_section_help">Aiuto</string>
     <string name="settings_section_import">Importa</string>
     <string name="settings_section_mobile_data">Traffico dati</string>

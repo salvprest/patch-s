@@ -32,7 +32,7 @@
 .method static a(Landroid/content/Context;)Z
     .locals 4
 
-    const/4 v1, 0x0
+    const/4 v1, 0x1
 
     const/4 v0, 0x1
 

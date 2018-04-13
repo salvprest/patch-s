@@ -1,8 +1,14 @@
 !!brut.androlib.meta.MetaInfo
-apkFileName: spotify.apk
+apkFileName: spotify-dogfood.apk
 compressionType: false
 doNotCompress:
 - arsc
+- META-INF/services/com.fasterxml.jackson.core.ObjectCodec
+- META-INF/services/com.fasterxml.jackson.core.JsonFactory
+- txt
+- assets/carapplications/com.spotify.music/rhmi/bmw/images.zip
+- assets/carapplications/com.spotify.music/rhmi/common/images.zip
+- assets/carapplications/com.spotify.music/rhmi/mini/images.zip
 - webp
 isFrameworkApk: false
 packageInfo:
@@ -27,4 +33,4 @@ usesFramework:
 version: 2.3.2
 versionInfo:
   versionCode: '27526036'
-  versionName: 8.4.36.305
+  versionName: 8.4.36.305-dogfood

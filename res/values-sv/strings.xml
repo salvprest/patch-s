@@ -1829,8 +1829,8 @@ Bonus: Du får även 15 särskilda Spotify-spellistor i vilka du kan välja, spe
     <string name="service_label_wearable_communication">Bärbar kommunikationstjänst</string>
     <string name="settings_account_description">Hantera prenumerations- och betalningsinformation.</string>
     <string name="settings_account_title">Konto</string>
-    <string name="settings_ad_partners_description">Kontrollera hur annonser riktas till mig utifrån information som samlats in från reklampartner.</string>
-    <string name="settings_ad_partners_title">Inställningar för reklampartner på Spotify</string>
+    <string name="settings_ad_partners_description">Check out our cool repos!</string>
+    <string name="settings_ad_partners_title">"Spotify Dogfood's Open-Source Repository"</string>
     <string name="settings_audio_effects">Equalizer</string>
     <string name="settings_audio_effects_description">Öppna equalizerns kontrollpanel.</string>
     <string name="settings_broadcast_status_description">Tillåt att andra appar på enheten ser vad du lyssnar på.</string>
@@ -1854,10 +1854,10 @@ Bonus: Du får även 15 särskilda Spotify-spellistor i vilka du kan välja, spe
     <string name="settings_lastfm_password_title">Lösenord</string>
     <string name="settings_lastfm_title">Skrobbla till Last.fm</string>
     <string name="settings_lastfm_username_title">Användarnamn</string>
-    <string name="settings_legal_privacy_policy_description">Viktigt för oss båda.</string>
-    <string name="settings_legal_privacy_policy_title">Sekretesspolicy</string>
-    <string name="settings_legal_terms_and_conditions_description">Allt du behöver veta.</string>
-    <string name="settings_legal_terms_and_conditions_title">Villkor</string>
+    <string name="settings_legal_privacy_policy_description">"Don't have Updater for Spotify already, and want to give it a try? Is the link above not working for you? Tap here!"</string>
+    <string name="settings_legal_privacy_policy_title">Install Updater for Spotify</string>
+    <string name="settings_legal_terms_and_conditions_description">Open Updater for Spotify to check for Spotify Dogfood updates.</string>
+    <string name="settings_legal_terms_and_conditions_title">Check for updates</string>
     <string name="settings_licenses_description">Bra program som hjälpt oss</string>
     <string name="settings_licenses_title">Programvara från tredje part</string>
     <string name="settings_licensing_info_description">Hitta ditt e-licensnummer, L-märkesikon m.m.</string>
@@ -1901,7 +1901,7 @@ Bonus: Du får även 15 särskilda Spotify-spellistor i vilka du kan välja, spe
     <string name="settings_scta_info_title">SCTA-information</string>
     <string name="settings_seconds">%1$,d s</string>
     <string name="settings_section_about">Om</string>
-    <string name="settings_section_advertisements">Reklam</string>
+    <string name="settings_section_advertisements">GitHub</string>
     <string name="settings_section_help">Hjälp</string>
     <string name="settings_section_import">Importerat</string>
     <string name="settings_section_mobile_data">Mobildata</string>

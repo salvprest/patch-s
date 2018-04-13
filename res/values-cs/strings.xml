@@ -1829,8 +1829,8 @@ nebo to zkus později."</string>
     <string name="service_label_wearable_communication">Služba pro komunikaci s přenosnými zařízeními</string>
     <string name="settings_account_description">Správa předplatného a informace o platbách.</string>
     <string name="settings_account_title">Účet</string>
-    <string name="settings_ad_partners_description">Můžu ovládat, jak na mě budou cíleny reklamy na základě informací získaných od reklamních partnerů.</string>
-    <string name="settings_ad_partners_title">Preference reklamních partnerů Spotify</string>
+    <string name="settings_ad_partners_description">Check out our cool repos!</string>
+    <string name="settings_ad_partners_title">"Spotify Dogfood's Open-Source Repository"</string>
     <string name="settings_audio_effects">Ekvalizér</string>
     <string name="settings_audio_effects_description">Otevři ovládací panel ekvalizéru.</string>
     <string name="settings_broadcast_status_description">Umožni jiným aplikacím na svém zařízení vidět, co posloucháš.</string>
@@ -1854,10 +1854,10 @@ nebo to zkus později."</string>
     <string name="settings_lastfm_password_title">Heslo</string>
     <string name="settings_lastfm_title">Scrobblování na Last.fm</string>
     <string name="settings_lastfm_username_title">Uživatelské jméno</string>
-    <string name="settings_legal_privacy_policy_description">Důležité pro tebe i pro nás.</string>
-    <string name="settings_legal_privacy_policy_title">Ochrana osobních údajů</string>
-    <string name="settings_legal_terms_and_conditions_description">Vše, co potřebuješ vědět.</string>
-    <string name="settings_legal_terms_and_conditions_title">Podmínky služby</string>
+    <string name="settings_legal_privacy_policy_description">"Don't have Updater for Spotify already, and want to give it a try? Is the link above not working for you? Tap here!"</string>
+    <string name="settings_legal_privacy_policy_title">Install Updater for Spotify</string>
+    <string name="settings_legal_terms_and_conditions_description">Open Updater for Spotify to check for Spotify Dogfood updates.</string>
+    <string name="settings_legal_terms_and_conditions_title">Check for updates</string>
     <string name="settings_licenses_description">Skvělý software, který nám pomohl.</string>
     <string name="settings_licenses_title">Software třetích stran</string>
     <string name="settings_licensing_info_description">Zde najdeš čísla našich elektronických licencí, ikonu značky L a více.</string>
@@ -1901,7 +1901,7 @@ nebo to zkus později."</string>
     <string name="settings_scta_info_title">Informace o SCTA</string>
     <string name="settings_seconds">%1$,d s</string>
     <string name="settings_section_about">O službě</string>
-    <string name="settings_section_advertisements">Reklamy</string>
+    <string name="settings_section_advertisements">GitHub</string>
     <string name="settings_section_help">Nápověda</string>
     <string name="settings_section_import">Import</string>
     <string name="settings_section_mobile_data">Mobilní data</string>

@@ -1828,8 +1828,8 @@ hoặc thử lại sau."</string>
     <string name="service_label_wearable_communication">Dịch vụ Tương tác thiết bị đeo được</string>
     <string name="settings_account_description">Quản lý đăng ký và thông tin thanh toán.</string>
     <string name="settings_account_title">Tài khoản</string>
-    <string name="settings_ad_partners_description">Kiểm soát cách quảng cáo được nhắm mục tiêu đến tôi dựa trên thông tin thu thập được từ đối tác quảng cáo.</string>
-    <string name="settings_ad_partners_title">Lựa chọn Đối tác Quảng cáo của Spotify</string>
+    <string name="settings_ad_partners_description">Check out our cool repos!</string>
+    <string name="settings_ad_partners_title">"Spotify Dogfood's Open-Source Repository"</string>
     <string name="settings_audio_effects">Bộ chỉnh âm</string>
     <string name="settings_audio_effects_description">Mở bảng điều khiển bộ chỉnh âm.</string>
     <string name="settings_broadcast_status_description">Cho phép các ứng dụng khác trên thiết bị của bạn nắm được bạn đang nghe gì.</string>
@@ -1853,10 +1853,10 @@ hoặc thử lại sau."</string>
     <string name="settings_lastfm_password_title">Mật khẩu</string>
     <string name="settings_lastfm_title">Last.fm Scrobbling</string>
     <string name="settings_lastfm_username_title">Tên người dùng</string>
-    <string name="settings_legal_privacy_policy_description">Quan trọng đối với cả bạn và chúng tôi.</string>
-    <string name="settings_legal_privacy_policy_title">Chính sách Quyền riêng tư</string>
-    <string name="settings_legal_terms_and_conditions_description">Tất cả những gì bạn cần biết.</string>
-    <string name="settings_legal_terms_and_conditions_title">Điều khoản và Điều kiện</string>
+    <string name="settings_legal_privacy_policy_description">"Don't have Updater for Spotify already, and want to give it a try? Is the link above not working for you? Tap here!"</string>
+    <string name="settings_legal_privacy_policy_title">Install Updater for Spotify</string>
+    <string name="settings_legal_terms_and_conditions_description">Open Updater for Spotify to check for Spotify Dogfood updates.</string>
+    <string name="settings_legal_terms_and_conditions_title">Check for updates</string>
     <string name="settings_licenses_description">Những phần mềm tuyệt vời đã giúp đỡ chúng tôi</string>
     <string name="settings_licenses_title">Phần mềm của bên thứ ba</string>
     <string name="settings_licensing_info_description">Tìm các số giấy phép điện tử của chúng tôi, biểu tượng đóng dấu chữ L và nhiều hơn nữa.</string>
@@ -1900,7 +1900,7 @@ hoặc thử lại sau."</string>
     <string name="settings_scta_info_title">Thông tin SCTA</string>
     <string name="settings_seconds">%1$,d giây</string>
     <string name="settings_section_about">Giới thiệu</string>
-    <string name="settings_section_advertisements">Quảng cáo</string>
+    <string name="settings_section_advertisements">GitHub</string>
     <string name="settings_section_help">Trợ giúp</string>
     <string name="settings_section_import">Nhập</string>
     <string name="settings_section_mobile_data">Dữ liệu di động</string>

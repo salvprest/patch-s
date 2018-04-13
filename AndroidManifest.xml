@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.spotify.music">
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.spotify.music" platformBuildVersionCode="25" platformBuildVersionName="O">
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
     <uses-permission android:name="android.permission.BROADCAST_STICKY"/>
@@ -476,7 +476,7 @@
         <receiver android:exported="false" android:name="com.spotify.mobile.android.shortcut.ShortcutPinnedReceiver"/>
         <provider android:authorities="com.spotify.music" android:exported="false" android:multiprocess="true" android:name="com.spotify.music.internal.provider.SpotifyProvider"/>
         <provider android:authorities="com.spotify.music.logger" android:exported="false" android:name="com.spotify.mobile.android.service.LoggerProvider"/>
-        <provider android:authorities="@string/media_provider_authority" android:exported="true" android:name="com.spotify.mobile.android.service.media.provider.MediaProvider"/>
+        <provider android:authorities="com.spotify.mobile.android.mediaapi" android:exported="true" android:name="com.spotify.mobile.android.service.media.provider.MediaProvider"/>
         <provider android:authorities="com.spotify.music.provider" android:exported="true" android:grantUriPermissions="true" android:name="com.bmwgroup.connected.car.contentprovider.AssetsProvider"/>
         <meta-data android:name="com.crashlytics.ApiKey" android:value="ed79a89851fe4ae8eb60f37284a088b1055997d8"/>
         <meta-data android:name="com.samsung.android.sdk.multiwindow.enable" android:value="true"/>

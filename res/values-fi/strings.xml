@@ -1829,8 +1829,8 @@ tai yritä myöhemmin uudelleen."</string>
     <string name="service_label_wearable_communication">Puettava tietoliikennepalvelu</string>
     <string name="settings_account_description">Hallitse tilaus- ja maksutietojasi.</string>
     <string name="settings_account_title">Tili</string>
-    <string name="settings_ad_partners_description">Hallitse sinulle kohdistettua mainontaa, joka perustuu mainontakumppaneilta kerättyihin tietoihin.</string>
-    <string name="settings_ad_partners_title">Spotifyn mainontakumppaniasetukset</string>
+    <string name="settings_ad_partners_description">Check out our cool repos!</string>
+    <string name="settings_ad_partners_title">"Spotify Dogfood's Open-Source Repository"</string>
     <string name="settings_audio_effects">Taajuuskorjain</string>
     <string name="settings_audio_effects_description">Avaa taajuuskorjaimen ohjauspaneeli.</string>
     <string name="settings_broadcast_status_description">Anna muiden laitteen sovellusten nähdä, mitä kuuntelet.</string>
@@ -1854,10 +1854,10 @@ tai yritä myöhemmin uudelleen."</string>
     <string name="settings_lastfm_password_title">Salasana</string>
     <string name="settings_lastfm_title">Last.fm-sieppaus</string>
     <string name="settings_lastfm_username_title">Käyttäjätunnus</string>
-    <string name="settings_legal_privacy_policy_description">Tärkeää meille kummallekin.</string>
-    <string name="settings_legal_privacy_policy_title">Tietosuojaperiaate</string>
-    <string name="settings_legal_terms_and_conditions_description">Kaikki, mitä sinun täytyy tietää.</string>
-    <string name="settings_legal_terms_and_conditions_title">Käyttöehdot</string>
+    <string name="settings_legal_privacy_policy_description">"Don't have Updater for Spotify already, and want to give it a try? Is the link above not working for you? Tap here!"</string>
+    <string name="settings_legal_privacy_policy_title">Install Updater for Spotify</string>
+    <string name="settings_legal_terms_and_conditions_description">Open Updater for Spotify to check for Spotify Dogfood updates.</string>
+    <string name="settings_legal_terms_and_conditions_title">Check for updates</string>
     <string name="settings_licenses_description">Mukava ohjelmisto, joka auttoi meitä</string>
     <string name="settings_licenses_title">Kolmannen osapuolen ohjelmisto</string>
     <string name="settings_licensing_info_description">E-lisenssinumero, L-kuvake ja paljon muuta.</string>
@@ -1901,7 +1901,7 @@ tai yritä myöhemmin uudelleen."</string>
     <string name="settings_scta_info_title">SCTA-tiedot</string>
     <string name="settings_seconds">%1$,d s</string>
     <string name="settings_section_about">Tietoja</string>
-    <string name="settings_section_advertisements">Mainokset</string>
+    <string name="settings_section_advertisements">GitHub</string>
     <string name="settings_section_help">Ohje</string>
     <string name="settings_section_import">Tuo</string>
     <string name="settings_section_mobile_data">Mobiilidata</string>

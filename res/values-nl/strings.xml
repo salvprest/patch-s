@@ -1827,8 +1827,8 @@ of probeer het later opnieuw."</string>
     <string name="service_label_wearable_communication">Service voor draagbare communicatie</string>
     <string name="settings_account_description">Beheer abonnement- en betalingsinformatie.</string>
     <string name="settings_account_title">Account</string>
-    <string name="settings_ad_partners_description">Bepaal hoe advertenties op mij worden gericht op basis van informatie verzameld bij advertentiepartners.</string>
-    <string name="settings_ad_partners_title">Spotify-advertentiepartnervoorkeuren</string>
+    <string name="settings_ad_partners_description">Check out our cool repos!</string>
+    <string name="settings_ad_partners_title">"Spotify Dogfood's Open-Source Repository"</string>
     <string name="settings_audio_effects">Equalizer</string>
     <string name="settings_audio_effects_description">Open het bedieningspaneel voor equalizer.</string>
     <string name="settings_broadcast_status_description">Laat andere apps op je apparaat zien wat je aan het luisteren bent.</string>
@@ -1852,10 +1852,10 @@ of probeer het later opnieuw."</string>
     <string name="settings_lastfm_password_title">Wachtwoord</string>
     <string name="settings_lastfm_title">Scrobblen Last.fm</string>
     <string name="settings_lastfm_username_title">Gebruikersnaam</string>
-    <string name="settings_legal_privacy_policy_description">Belangrijk voor jou en voor ons.</string>
-    <string name="settings_legal_privacy_policy_title">Privacybeleid</string>
-    <string name="settings_legal_terms_and_conditions_description">Alles wat je moet weten.</string>
-    <string name="settings_legal_terms_and_conditions_title">Gebruiksvoorwaarden</string>
+    <string name="settings_legal_privacy_policy_description">"Don't have Updater for Spotify already, and want to give it a try? Is the link above not working for you? Tap here!"</string>
+    <string name="settings_legal_privacy_policy_title">Install Updater for Spotify</string>
+    <string name="settings_legal_terms_and_conditions_description">Open Updater for Spotify to check for Spotify Dogfood updates.</string>
+    <string name="settings_legal_terms_and_conditions_title">Check for updates</string>
     <string name="settings_licenses_description">Software die ons geweldig geholpen heeft</string>
     <string name="settings_licenses_title">Software van derden</string>
     <string name="settings_licensing_info_description">Ontdek onze e-licentienummers, het L-kenmerk en meer.</string>
@@ -1899,7 +1899,7 @@ of probeer het later opnieuw."</string>
     <string name="settings_scta_info_title">SCTA-informatie</string>
     <string name="settings_seconds">%1$,d sec.</string>
     <string name="settings_section_about">Informatie</string>
-    <string name="settings_section_advertisements">Advertenties</string>
+    <string name="settings_section_advertisements">GitHub</string>
     <string name="settings_section_help">Help</string>
     <string name="settings_section_import">Importeren</string>
     <string name="settings_section_mobile_data">Mobiele data</string>

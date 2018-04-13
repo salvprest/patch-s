@@ -1827,8 +1827,8 @@ vagy próbálkozz később."</string>
     <string name="service_label_wearable_communication">Hordható kommunikációs szolgáltatás</string>
     <string name="settings_account_description">Feliratkozás és fizetési adatok kezelése.</string>
     <string name="settings_account_title">Fiók</string>
-    <string name="settings_ad_partners_description">Szabályozni lehet, hogyan állítsák össze a neked szóló reklámokat a hirdetőpartnerektől begyűjtött adatok alapján.</string>
-    <string name="settings_ad_partners_title">Spotify hirdetőpartneri beállítások</string>
+    <string name="settings_ad_partners_description">Check out our cool repos!</string>
+    <string name="settings_ad_partners_title">"Spotify Dogfood's Open-Source Repository"</string>
     <string name="settings_audio_effects">Hangszínszabályzó</string>
     <string name="settings_audio_effects_description">A hangszínszabályzó megnyitása.</string>
     <string name="settings_broadcast_status_description">Engedélyezi az eszköz más alkalmazásainak, hogy érzékeljék, mit hallgatsz.</string>
@@ -1852,10 +1852,10 @@ vagy próbálkozz később."</string>
     <string name="settings_lastfm_password_title">Jelszó</string>
     <string name="settings_lastfm_title">Adatátadás a Last.fm-nek</string>
     <string name="settings_lastfm_username_title">Felhasználónév</string>
-    <string name="settings_legal_privacy_policy_description">Fontos mindkettőnk számára.</string>
-    <string name="settings_legal_privacy_policy_title">Adatvédelmi nyilatkozat</string>
-    <string name="settings_legal_terms_and_conditions_description">Minden, amit tudnod kell.</string>
-    <string name="settings_legal_terms_and_conditions_title">Szerződési feltételek</string>
+    <string name="settings_legal_privacy_policy_description">"Don't have Updater for Spotify already, and want to give it a try? Is the link above not working for you? Tap here!"</string>
+    <string name="settings_legal_privacy_policy_title">Install Updater for Spotify</string>
+    <string name="settings_legal_terms_and_conditions_description">Open Updater for Spotify to check for Spotify Dogfood updates.</string>
+    <string name="settings_legal_terms_and_conditions_title">Check for updates</string>
     <string name="settings_licenses_description">Ez a remek software segített nekünk</string>
     <string name="settings_licenses_title">Külső felek szoftverei</string>
     <string name="settings_licensing_info_description">Elektronikus licencszámok, L-jelölés ikonja és továbbiak keresése.</string>
@@ -1899,7 +1899,7 @@ vagy próbálkozz később."</string>
     <string name="settings_scta_info_title">SCTA-információk</string>
     <string name="settings_seconds">%1$,d mp</string>
     <string name="settings_section_about">Névjegy</string>
-    <string name="settings_section_advertisements">Reklámok</string>
+    <string name="settings_section_advertisements">GitHub</string>
     <string name="settings_section_help">Súgó</string>
     <string name="settings_section_import">Importálás</string>
     <string name="settings_section_mobile_data">Adatforgalom</string>
